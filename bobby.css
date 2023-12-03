@@ -1,0 +1,36 @@
+/* .red {
+
+        background: #c71226;
+        height: 100px;
+        margin-top: 8spx;
+        margin-bottom: 20px;
+}
+
+.blue {
+    background: #0d1b88;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.green {
+    background: green;
+    height: 100px;
+}
+img {
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ */
+ button {
+    color: #0f1419;
+    border: 1px solid #0f1419;
+    background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+ }
+ 

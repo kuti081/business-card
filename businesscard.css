@@ -1,0 +1,37 @@
+body {
+    margin: 20px;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.businesscard {
+
+padding: 20px;
+display: flex;
+justify-content: space-around;
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+    border-bottom: 6px solid #decefe;
+    background: #ddebf8;
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.red-circle {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background-color: #bc002d;
+
+   /*  margin-top: 100px;
+    margin-right: auto;
+    margin-bottom: 100px;
+    margin-left: auto; */
+    margin: 100px auto;
+}
